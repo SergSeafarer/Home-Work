@@ -1,0 +1,11 @@
+@import url(./normalize.css);
+
+* {
+  box-sizing: border-box;
+}
+
+.wrapper {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
